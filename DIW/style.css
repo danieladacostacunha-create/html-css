@@ -1,0 +1,25 @@
+body{
+background-color: yellow;
+color:blue;
+font-family:Arial;
+font-size: 20px;
+}
+#p1 {  
+color:pink;(318,65%,55%);
+
+}
+
+#p2 {
+    color:yellow (0,85%,58%);
+}
+
+#p3{
+  
+  color:black;(140,100%,1%);
+}
+h1 {
+    color:red;
+    font-family: Ariel;
+    font-size: 60px;
+}
+
